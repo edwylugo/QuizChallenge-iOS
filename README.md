@@ -22,3 +22,8 @@ You must run the tests with the **Iphone SE simulator**, because the snapshot te
 
 Make sure yout simulator is showing the keyboard, it is necessary for KIF tests
 
+# Developed
+Edwy Lugo
+edwylugo@gmail.com
+
+
