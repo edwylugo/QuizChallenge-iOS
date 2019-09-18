@@ -26,4 +26,6 @@ Make sure yout simulator is showing the keyboard, it is necessary for KIF tests
 Edwy Lugo
 edwylugo@gmail.com
 
+# Pull Request
+18/09/2019
 
